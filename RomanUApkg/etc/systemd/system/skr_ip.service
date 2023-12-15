@@ -1,0 +1,13 @@
+[Unit]
+Description=Log Connection Service
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/sbin/skr_ip.sh
+Restart=always
+RestartSec=120m
+User=root
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,7 @@
+Package: romanuapkg
+Version: 1.0
+Maintainer: Roman Kravchuk
+Architecture: all
+Description: My first deb package
+Depends: systemd
+
