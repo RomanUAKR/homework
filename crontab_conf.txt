@@ -1,0 +1,1 @@
+0 7 * * *  sudo apt update && sudo abt upgrade -y
