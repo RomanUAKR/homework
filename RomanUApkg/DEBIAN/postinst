@@ -2,7 +2,7 @@
 
 set -e
 
-systemctl deamon-reload
+systemctl daemon-reload
 
 # Enable systemd service
 
