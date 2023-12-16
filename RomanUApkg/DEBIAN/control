@@ -1,5 +1,5 @@
 Package: romanuapkg
-Version: 1.0
+Version: 1.02
 Maintainer: Roman Kravchuk
 Architecture: all
 Description: My first deb package
